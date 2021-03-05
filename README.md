@@ -4,7 +4,6 @@ _This module shows an additional field configurable in the product manager to la
 
 ### Special thanks to: 📋
 
-_You have to create an account at_
 
 * [Sekourm](https://github.com/sekourm/custom-field-product-prestashop-1.7) - Main idea creator
 
